@@ -1,0 +1,23 @@
+{
+  "name": "clima-agora",
+  "version": "1.0.0",
+  "description": "Single Page Aplication para buscar clima na região pesquisada",
+  "homepage": "https://github.com/CorreaBrunoMiguel/clima-agora#readme",
+  "bugs": {
+    "url": "https://github.com/CorreaBrunoMiguel/clima-agora/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorreaBrunoMiguel/clima-agora.git"
+  },
+  "license": "ISC",
+  "author": "DevCorrea",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prettier": "^3.5.3"
+  }
+}

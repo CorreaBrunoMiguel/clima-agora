@@ -1,0 +1,23 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Node.js e pacotes (caso decida adicionar dependências no futuro)
+node_modules/
+package-lock.json
+
+# Arquivos do Editor
+.vscode/
+.idea/
+*.log
+
+# Arquivos de build (se usar algum pré-processador ou bundler)
+dist/
+build/
+
+# Configuração e cache do navegador
+*.cache
+*.env
+
+# Configuração do Prettier
+.prettier-cache/
